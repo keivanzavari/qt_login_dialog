@@ -1,6 +1,7 @@
 #ifndef LOGIN_DIALOG_H
 #define LOGIN_DIALOG_H
 
+
 #include <QDialog>
 #include <QLabel>
 #include <QPushButton>

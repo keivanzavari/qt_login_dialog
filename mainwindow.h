@@ -7,7 +7,7 @@
 #include <QString>
 #include <QDebug>
 
-#include "dialog.h"
+#include "login_dialog.h"
 
 namespace Ui {
 class MainWindow;
