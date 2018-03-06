@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>UK_flag.png</file>
+    </qresource>
+</RCC>
